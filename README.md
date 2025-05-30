@@ -51,7 +51,7 @@ Sou apaixonado por tecnologia, aprendizado contínuo e por transformar ideias em
 
 - 📧 [Meu E-mail](mailto:contato@silvanodiasjr.com.br)
 - 💼 [LinkedIn](https://br.linkedin.com/in/silvano-char%C3%A3o-dias-junior-99766216a)
-- 🌐 [Site pessoal]([https://seusite.com](https://silvanodiasjr.com.br/)
+- 🌐 [Site pessoal](https://silvanodiasjr.com.br/)
 
 ---
 
