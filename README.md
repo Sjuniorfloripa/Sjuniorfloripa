@@ -26,7 +26,6 @@ Sou apaixonado por tecnologia, aprendizado contínuo e por transformar ideias em
 **Banco de Dados:**
 
 ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
-
 ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)
 ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white)
 
@@ -51,7 +50,7 @@ Sou apaixonado por tecnologia, aprendizado contínuo e por transformar ideias em
 
 - 📧 [Meu E-mail](mailto:contato@silvanodiasjr.com.br)
 - 💼 [LinkedIn](https://br.linkedin.com/in/silvano-char%C3%A3o-dias-junior-99766216a)
-- 🌐 [Site pessoal](https://seusite.com)
+- 🌐 [Site pessoal]([https://seusite.com](https://silvanodiasjr.com.br/)
 
 ---
 
